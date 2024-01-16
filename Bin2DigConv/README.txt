@@ -1,0 +1,1 @@
+This is a basic Binary-Digit Converter i created feel free to use.
